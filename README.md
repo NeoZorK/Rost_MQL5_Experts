@@ -38,7 +38,11 @@ If you find these expert advisors helpful and would like to support the developm
 bc1qm0ynz8tk2em3zr8agv5j3550vpm420z3hxdfkq
 ```
 
-*You can copy the address above and send Bitcoin from any wallet or exchange.*
+**QR Code for Bitcoin Wallet:**
+
+![Bitcoin QR Code](https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=bc1qm0ynz8tk2em3zr8agv5j3550vpm420z3hxdfkq)
+
+*Scan the QR code above or copy the address to send Bitcoin from any wallet or exchange.*
 
 ---
 
