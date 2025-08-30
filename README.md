@@ -26,9 +26,19 @@ bc1qm0ynz8tk2em3zr8agv5j3550vpm420z3hxdfkq
 
 ## ☕ Support the Project
 
-If you find these expert advisors helpful and would like to support the development, consider buying me a coffee!
+If you find these expert advisors helpful and would like to support the development, consider buying me a coffee or donating Bitcoin!
 
 [![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/neozork)
+
+### 💰 Bitcoin Donation
+
+**Bitcoin Address:** `bc1qm0ynz8tk2em3zr8agv5j3550vpm420z3hxdfkq`
+
+```
+bc1qm0ynz8tk2em3zr8agv5j3550vpm420z3hxdfkq
+```
+
+*You can copy the address above and send Bitcoin from any wallet or exchange.*
 
 ---
 
