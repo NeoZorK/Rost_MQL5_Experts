@@ -24,6 +24,14 @@ bc1qm0ynz8tk2em3zr8agv5j3550vpm420z3hxdfkq
 
 ---
 
+## ☕ Support the Project
+
+If you find these expert advisors helpful and would like to support the development, consider buying me a coffee!
+
+[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/neozork)
+
+---
+
 ## 🚀 Main Experts
 
 ### SCHR_Global.mq5 - Main Expert
