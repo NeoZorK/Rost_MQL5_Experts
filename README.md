@@ -2,35 +2,7 @@
 
 A collection of professional expert advisors for MetaTrader 5, developed by Shcherbyna Rostyslav.
 
-## ☕ Support the Project
-
-If you find these expert advisors helpful and would like to support the development, consider buying me a coffee or donating Bitcoin!
-
-[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/neozork)
-
-### 💰 Bitcoin Donation
-
-**Bitcoin Address:** `bc1qm0ynz8tk2em3zr8agv5j3550vpm420z3hxdfkq`
-
-```
-bc1qm0ynz8tk2em3zr8agv5j3550vpm420z3hxdfkq
-```
-
-**QR Code for Bitcoin Wallet:**
-
-![Bitcoin QR Code](https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=bc1qm0ynz8tk2em3zr8agv5j3550vpm420z3hxdfkq)
-
-*Scan the QR code above or copy the address to send Bitcoin from any wallet or exchange.*
-
----
-
-## ☕ Support the Project
-
-If you find these expert advisors helpful and would like to support the development, consider buying me a coffee or donating Bitcoin!
-
-[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/neozork)
-
-### 💰 Bitcoin Donation
+## 💰 Bitcoin Donation
 
 **Bitcoin Address:** `bc1qm0ynz8tk2em3zr8agv5j3550vpm420z3hxdfkq`
 
